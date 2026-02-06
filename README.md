@@ -94,7 +94,8 @@ RetainAI aims to become that system.
 
 ## Live Demo
 
-Try the prototype here:  
+Try the prototype here:       
+**https://retain-ai-mep-r64cwi6qjigawzmmqupjqy.streamlit.app/**
 
 
 ---
